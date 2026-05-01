@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<properties>
+    <property>
+        <propertyId>1</propertyId>
+        <title>Sunny Beach Villa</title>
+        <propertyType>VILLA</propertyType>
+        <pricePerNight>250.00</pricePerNight>
+        <maxGuests>6</maxGuests>
+        <address>
+            <addressId>1</addressId>
+            <city>Kraków</city>
+            <street>Floriańska 12</street>
+            <zipcode>31-021</zipcode>
+            <country>
+                <countryId>1</countryId>
+                <code>48</code>
+                <name>Poland</name>
+                <callingCode>48</callingCode>
+            </country>
+        </address>
+        <host>
+            <hostId>1</hostId>
+        </host>
+        <photos>
+            <photo>
+                <photoId>1</photoId>
+                <url>https://example.com/photos/villa1.jpg</url>
+            </photo>
+            <photo>
+                <photoId>2</photoId>
+                <url>https://example.com/photos/villa2.jpg</url>
+            </photo>
+        </photos>
+    </property>
+
+    <property>
+        <propertyId>2</propertyId>
+        <title>Cozy Mountain Cabin</title>
+        <propertyType>CABIN</propertyType>
+        <pricePerNight>120.00</pricePerNight>
+        <maxGuests>4</maxGuests>
+        <address>
+            <addressId>2</addressId>
+            <city>Zakopane</city>
+            <street>Krupówki 5</street>
+            <zipcode>34-500</zipcode>
+            <country>
+                <countryId>1</countryId>
+                <code>48</code>
+                <name>Poland</name>
+                <callingCode>48</callingCode>
+            </country>
+        </address>
+        <host>
+            <hostId>2</hostId>
+        </host>
+        <photos>
+            <photo>
+                <photoId>3</photoId>
+                <url>https://example.com/photos/cabin1.jpg</url>
+            </photo>
+            <photo>
+                <photoId>4</photoId>
+                <url>https://example.com/photos/cabin2.jpg</url>
+            </photo>
+        </photos>
+    </property>
+
+    <property>
+        <propertyId>3</propertyId>
+        <title>Modern City Apartment</title>
+        <propertyType>APARTMENT</propertyType>
+        <pricePerNight>90.00</pricePerNight>
+        <maxGuests>2</maxGuests>
+        <address>
+            <addressId>3</addressId>
+            <city>Warsaw</city>
+            <street>Nowy Świat 22</street>
+            <zipcode>00-373</zipcode>
+            <country>
+                <countryId>1</countryId>
+                <code>48</code>
+                <name>Poland</name>
+                <callingCode>48</callingCode>
+            </country>
+        </address>
+        <host>
+            <hostId>3</hostId>
+        </host>
+        <photos>
+            <photo>
+                <photoId>5</photoId>
+                <url>https://example.com/photos/apartment1.jpg</url>
+            </photo>
+            <photo>
+                <photoId>6</photoId>
+                <url>https://example.com/photos/apartment2.jpg</url>
+            </photo>
+        </photos>
+    </property>
+
+    <property>
+        <propertyId>4</propertyId>
+        <title>Seaside Studio</title>
+        <propertyType>STUDIO</propertyType>
+        <pricePerNight>75.00</pricePerNight>
+        <maxGuests>2</maxGuests>
+        <address>
+            <addressId>4</addressId>
+            <city>Gdańsk</city>
+            <street>Długa 8</street>
+            <zipcode>80-827</zipcode>
+            <country>
+                <countryId>1</countryId>
+                <code>48</code>
+                <name>Poland</name>
+                <callingCode>48</callingCode>
+            </country>
+        </address>
+        <host>
+            <hostId>4</hostId>
+        </host>
+        <photos>
+            <photo>
+                <photoId>7</photoId>
+                <url>https://example.com/photos/studio1.jpg</url>
+            </photo>
+            <photo>
+                <photoId>8</photoId>
+                <url>https://example.com/photos/studio2.jpg</url>
+            </photo>
+        </photos>
+    </property>
+</properties>
