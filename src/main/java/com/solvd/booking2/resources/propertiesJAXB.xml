@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<properties>
+
+    <property id="4">
+        <title>Seaside Studio</title>
+        <propertyType>STUDIO</propertyType>
+        <pricePerNight>75.00</pricePerNight>
+        <maxGuests>2</maxGuests>
+        <address id="4">
+            <city>Gdańsk</city>
+            <street>Długa 8</street>
+            <zipcode>80-827</zipcode>
+            <country id="1">
+                <code>48</code>
+                <name>Poland</name>
+                <callingCode>48</callingCode>
+            </country>
+        </address>
+        <host id="4"/>
+        <photos>
+            <photo id="7">
+                <url>https://example.com/photos/studio1.jpg</url>
+            </photo>
+            <photo id="8">
+                <url>https://example.com/photos/studio2.jpg</url>
+            </photo>
+        </photos>
+    </property>
+</properties>
